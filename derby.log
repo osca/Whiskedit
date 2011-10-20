@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Oct 20 17:40:15 CEST 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.1.2 - (1095077): instance a816c00e-0133-21fd-6909-0000047eb980 
+on database directory /Users/dennis/Documents/Java Workspace/Whiskedit/Mp3Base  with class loader sun.misc.Launcher$AppClassLoader@61e63e3d 
+Loaded from file:/Users/dennis/Documents/Java%20Workspace/Whiskedit/lib/derby.jar
+java.vendor=Apple Inc.
+java.runtime.version=1.6.0_26-b03-383-11A511
+user.dir=/Users/dennis/Documents/Java Workspace/Whiskedit
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Thu Oct 20 17:40:15 CEST 2011:
+Shutting down instance a816c00e-0133-21fd-6909-0000047eb980 on database directory /Users/dennis/Documents/Java Workspace/Whiskedit/Mp3Base with class loader sun.misc.Launcher$AppClassLoader@61e63e3d 
